@@ -1,9 +1,9 @@
 # bmi_calculator
 
 !!!!!
-# You have installed the latest version of Flutter SDK. Install Flutter
+ You have installed the latest version of Flutter SDK. Install Flutter
 
-# You have installed Android Studio and setup an emulator. Download Android Studio
+ You have installed Android Studio and setup an emulator. Download Android Studio
 
 changes!!
 /android/gradle.properties
